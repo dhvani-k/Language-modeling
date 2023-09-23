@@ -1,4 +1,4 @@
-# Language-modeling
+# Language Modeling and Prediction with GPT-2
 
 This repository contains Language Modeling that computes bigram and trigram probabilities, conditional probabilities from a corpus, and use GPT-2, which is a more sophisticated (but no longer state-of-the-art) neural language model which computes the probabilities of all tokens given the previous context simultaneously.
 
